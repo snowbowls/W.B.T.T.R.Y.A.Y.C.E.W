@@ -1,9 +1,9 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: We've Been Trying To Reach You About Your Car's Extended Warranty
+> * Group participants names: James Henderson; Patricia Montoya; Maxwell Stolarenko
+> * Project Title: Cybersecuirty Working Title
 
 ## General Introduction
 
