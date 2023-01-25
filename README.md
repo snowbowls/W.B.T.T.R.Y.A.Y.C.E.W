@@ -3,9 +3,11 @@
 
 > * Group Name: We've Been Trying To Reach You About Your Car's Extended Warranty
 > * Group participants names: James Henderson; Patricia Montoya; Maxwell Stolarenko
-> * Project Title: Cybersecuirty Working Title
+> * Project Title: Cybersecuirty Training Effectiveness
 
 ## General Introduction
+
+
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
