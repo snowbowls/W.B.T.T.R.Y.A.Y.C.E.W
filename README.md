@@ -7,7 +7,10 @@
 
 ## General Introduction
 
+As more businesses and governments adopt information and communication technologies into their infrastructure, the need for proper security becomes increasingly more important. All employees working adjacent to these technologies must be made aware how their actions can affect how secure a system truly is. Cybersecurity is described as the technologies and practices to protect people and data from an attack through unauthorized access. It’s important for any individual who interacts with these networked technologies to be made aware how it can be used against them.
 
+(cite real world examples / stats involving loss from cybercrimes)
+----------------------
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
