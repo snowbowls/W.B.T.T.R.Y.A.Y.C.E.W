@@ -11,6 +11,7 @@ As more businesses and governments adopt information and communication technolog
 
 (cite real world examples / stats involving loss from cybercrimes)
 
+How does providing ongoing cybersecurity education and training to employees impact an organization's overall security?
 
 ----------------------
 
