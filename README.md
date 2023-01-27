@@ -7,9 +7,10 @@
 
 ## General Introduction
 
-As more businesses and governments adopt information and communication technologies into their infrastructure, the need for proper security becomes increasingly more important. All employees working adjacent to these technologies must be made aware how their actions can affect how secure a system truly is. Cybersecurity is described as the technologies and practices to protect people and data from an attack through unauthorized access. It’s important for any individual who interacts with these networked technologies to be made aware how it can be used against them or give unauthorized access to attackers.
+As more businesses and governments adopt information and communication technologies into their infrastructure, the need for proper security becomes increasingly more important. All employees working adjacent to these technologies must be made aware how their actions can affect how secure a system truly is. Cybersecurity is described as the technologies and practices to protect people and data from an attack through unauthorized access. It’s important for any individual who interacts with these networked technologies to be made aware how it can be used against them or give unauthorized access to attackers. Cybersecurity training can be effective by increasing the awareness of the security risks and teaching individuals how to navigate these risk to protect themselves and the organization from cyber threats. The effectiveness of training can depend on the relevance of the training, the frequency of training, and of course the quality of the training program.
 
 (cite real world examples / stats involving loss from cybercrimes)
+
 
 ----------------------
 
