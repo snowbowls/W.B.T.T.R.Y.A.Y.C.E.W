@@ -13,6 +13,10 @@ As more businesses and governments adopt information and communication technolog
 
 How does providing ongoing cybersecurity education and training to employees impact an organization's overall security?
 
+Awareness programs (CSA): These programs often include training sessions where employees are given information about the latest security threats and best practices for protecting their networks from cyber threats. This can be delivered through live training sessions, webinars, or online resources.
+
+Gamification / Simulated: This can help employees better understand and remember key concepts, as well as providing a low-stakes environment to practice safe online behavior. Simulated phishing exercises work by sending employees simulated phishing emails that mimic real attacks. The goal of these exercises is to train employees to recognize and avoid these types of threats in the future. The simulated phishing emails often contain links or attachments that, when clicked, will trigger an alert to inform the employee that they have fallen for a simulated phishing attack. The employee will then receive feedback and education on how to avoid falling for similar attacks in the future.
+
 ----------------------
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
