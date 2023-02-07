@@ -13,6 +13,8 @@ As more businesses and governments adopt information and communication technolog
 
 How does providing ongoing cybersecurity education and training to employees impact an organization's overall security?
 
+How does an industry professionals perception of the usefulness of cybersecurity training differ from the measurable effectiveness of cybersecurity training? 
+
 Methods for training:
 
 Awareness programs (CSA): These programs often include training sessions where employees are given information about the latest security threats and best practices for protecting their networks from cyber threats. This can be delivered through live training sessions, webinars, or online resources.
