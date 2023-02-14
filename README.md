@@ -52,7 +52,29 @@ Trainee Feedback: Gathering feedback from employees about their training, its co
 
 ## Related Work
 
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
+Introduction to cybersecurity:
+
+Cybersecurity refers to the practice of protecting network-connected systems which includes the hardware and stored data from unauthorized access and use such as theft, damage, and other forms of cyber-attacks. The concept of cybersecuirty is the same as information security but not all cybersecurity attacks are targeting the information stored in the network but instead the network itself, preventing further use until repairs or replacements are made.
+
+The defense against cyber-attacks starts with training the personal who engage with any network-connected system. The process of educating individuals and organization on the best practices and techniques for protecting their digital assets from cyber threats. Cybersecurity training covers a wide spectrum of topics from principles of information security, cyber threat intelligence for future mitigation, vulnerability management, incident response and compliance of standards. The effect of cybersecuirty training is to improve the knowledge, skills, and awareness of individuals to enhance their ability to detect, prevent, and response to a cyber threat.
+
+Historical overview of cybersecurity:
+
+Cybersecurity has been a topic of discussion since the development of early computer systems in the 50s and 60s, the difference in the beginning of this discussion was their focus on physical security such as gaining unauthorized physical access to the hardware itself as opposed to remote network access. As network technology evolved creating more convenient methods of access, so did the vulnerability from cyber threats. The first computer viruses were developed in the earl 80s and only then did security research begin developing counter measures to cyber threats such as antivirus software. This trend picked up speed well into the 90s when the rise of the internet and it’s widespread adoption created new opportunities for any individual to engage in cyber crimes such as hacking and identity theft. Today, cyber attacks have continued to evolve and increase in complexity with a new rise to advanced persistent threats that lay dormant in one’s network until triggered by an event such as a specified time. The demand for effective cybersecurity training will only increase as information security has become a critical concern for any individual including business and governments with the looming threats of ransomware attacks and data leaks.
+
+Current state of the art:
+
+The current state of the art in cybersecuirty training involves different approaches such as simulations, virtual environments, and awareness of best practices with the most common implantation being online training. This training apporach is a cost-effective and flexible method for providing individuals with access to a wide range of videos, reading passages, and interactive modules structured to test a user’s ability to detect and respond to a cyber threat. The flexibility of online training affords a self-paced learning environment that can be accessed from any location. Regular training and assessment can ensure an individual’s skills are meeting a given standard to identify cyber threats. The limitations of this training method come down to the mediums used to present the information, and the lack of engaging interactions or hands-on experience such as penetration testing and vulnerability assessment can prevent a trainee from adopting the learned practices especially for some individuals where this method is much less effective as extra guidance and interaction is needed for understanding complex topics. 
+
+Technology integrations have expanded how learners engage with curriculum where it would usually take place in a classroom, there is now cloud-based learning. A structured learning curriculum where the learner gains their knowledge and skills in a virtual environment whether it be lecture based or activity focused. This training method aims to expand the classroom experience without giving up on real-time interactions with instructors and experts that you would get in a face-to-face interaction. While classrooms are expensive and time consuming, it may also not be suitable for all types of learners without the integration of hands-on learning in virtual environments. Cloud-based learning offers a scalable and cost-effective solution for trainees to engage in virtual environments to provide a safe and secure platform for learners to apply their knowledge and skills gained from training and learn from their mistakes without impacting the vulnerability of a sensitive network.
+(Machine learning or AI related training methods?)
+
+There’s limitations with the integration of the aforementioned technologies and that comes down to the lack of standardization and the need for more practical training. Without standardization, inconsistencies in a learners knowledge and skills can make or break their incident response effectiveness. Practical training is thought to be a solution to provide proper standardization of learning methods and techniques but the barrier for entry can be very high for entry-level learners due to pricing and accessibility of the required technology. Integrating emerging technologies such as extended reality or machine learning can help to facilitate practical training to ensure a more consistent response to real-world scenarios.
+
+Empirical research..
+
+Conclusion…
+
 
 ## References 
 
