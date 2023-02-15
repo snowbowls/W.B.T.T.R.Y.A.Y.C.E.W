@@ -76,6 +76,34 @@ Empirical research..
 
 Conclusion…
 
+## Methods
+
+Operational Definations:
+
+
+Research Design:
+
+In the context of cybersecurity training, a case study can provide valuable insights on the training process and the impact it has on the trainee or organzation. We aim to explore the training experiences of a specfic organzation's method for cybersecurity training, examine their methods for delivering this training, the content that is covered, and the outcomes they expect to achieve versus what is acheieved. Through this examination, our case study also aims to identify the quality of the content presented in training, the engagement of the trainees and the extent to which the training can be integrated into an organziation's security culture.
+
+
+Participants:
+
+Data collection and analysis:
+
+A pretest will be given to the participants before they engage with the learning content for cybersecrity training. This pretest will gather any and all infromation about their expertise on cybersecurity, previous training, how often they engage with networked computers, have they ever been phished before, their perception of cybersecurity training, ...
+
+An interview will be conducted with a mix between open-ended and structured questions to explore their insights, level of understanding of the training content, and to what extent the trainign has infleunced their behavior and decision making.
+
+After engaginge with the learning material, participants will be taken through a short quiz to test their level of understanding and their effectiveness after learning the content. This will provide the data necessary to deterimine the areas that need improvment.
+
+IV - Content of cybersecurity training
+DV - Effectiveness and Perceieved Usefullness
+
+
+Ethics(?):
+
+Limitations, validity and reliability:
+Limited sample size, limited scope, subjectivity due to qualtative approach, measuring effectiveness, ... 
 
 ## References 
 
