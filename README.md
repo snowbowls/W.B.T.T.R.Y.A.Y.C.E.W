@@ -75,7 +75,19 @@ Empirical research..
 
 ## Methods
 
-Operational Definations:
+Operational Definitions:
+
+Cybersecurity - Knowledge and awareness of signs and countermeasures against cyber threats, in the context of phishing attacks. 
+
+Training - The education, instruction, or discipline of a person or thing that is being trained. (reword?)
+
+Phishing - Cyber attack directed at key individuals or large groups by disguising a malicious attack as a reputable organization or entity. 
+
+Perceived Usefulness - A subjective opinion if cybersecurity is effective
+
+Effectiveness - A metric to determine if cybersecurity training is successful 
+
+Industry professional - A person that works in a corporate environment 
 
 
 Research Design:
