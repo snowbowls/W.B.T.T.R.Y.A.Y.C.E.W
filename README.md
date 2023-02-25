@@ -98,6 +98,12 @@ Participants:
 
 The participants we are interested in for our study are industry professionals that are currently in the workforce. We are defining an industry professional as an individual who works in a corporate office environment. They would be familiar with cybersecurity trainings but will not have above average awareness of cybersecurity. We are looking at a sample size of 30 participants.
 
+Equipment:
+
+The equipment needed to conduct our study is a tool to create and host they surveys. The tool we have decided to use is Qualitrics since it is easily accessible to us. A laptop with internet access is also required as the tool the participants will use to take the surveys. We will also require access to a cybersecurity training video or examination for post scenario. 
+(Equipment Chart)(images/Equipment_Chart.png)
+
+
 Data collection and analysis:
 
 A pretest will be given to the participants before they engage with the learning content for cybersecrity training. This pretest will gather any and all infromation about their expertise on cybersecurity, previous training, how often they engage with networked computers, have they ever been phished before, their perception of cybersecurity training, ...
