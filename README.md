@@ -27,7 +27,10 @@ This project makes the following contributions:
 
 •	Identify challenges a user may face when engaging with phishing training
 
-•	...
+•	Provide recommendations for improving the design and delivery of training methods to enhance effectiveness
+
+•	Identify which aspects of phishing prevention training influence an employees’ attitudes and behaviors
+
 
 
 ## Related Work
