@@ -102,6 +102,11 @@ Equipment:
 
 The equipment needed to conduct our study is a tool to create and host they surveys. The tool we have decided to use is Qualitrics since it is easily accessible to us. A laptop with internet access is also required as the tool the participants will use to take the surveys. We will also require access to a cybersecurity training video or examination for post scenario.<BR> 
 ![Equipment Chart](images/Equipment_Chart.png)
+
+Procedure:
+
+For this study the participants will be acquired using snowball sampling. Each team member will reach out to an individual who fits the participant criteria to run through the study. Those initial participants will then refer 1-2 individuals they believe would be interested in participating in the study. The first portion of the survey will include demographic information which will help us filter out if any participants do not fit the criteria and those participants can be excluded. As an incentive for participation in the study we will be offering those that participate a $5 gift card. 
+
 Data collection and analysis:
 
 A pretest will be given to the participants before they engage with the learning content for cybersecrity training. This pretest will gather any and all infromation about their expertise on cybersecurity, previous training, how often they engage with networked computers, have they ever been phished before, their perception of cybersecurity training, ...
