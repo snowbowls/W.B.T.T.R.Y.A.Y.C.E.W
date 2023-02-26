@@ -21,9 +21,12 @@ Phising attacks have remained a persistent threat to governments and businesses 
 
 (Contributions. An enumeration of the contributions of the senior design project)
 
-(This project makes the following contributions:)(you must have this!!)
+This project makes the following contributions:
+
 •	Identify aspects of cybersecurity training programs that influence ease of use
+
 •	Identify challenges a user may face when engaging with phishing training
+
 •	...
 
 
