@@ -94,7 +94,7 @@ An interview will be conducted with a mix between open-ended and structured ques
 After engaginge with the learning material, participants will be taken through a short quiz to test their level of understanding and their effectiveness after learning the content. This will provide the data necessary to deterimine the areas that need improvment.
 
 IV - Content of cybersecurity training
-DV - Effectiveness and Perceieved Usefullness
+DV - Effectiveness and Perceieved Usefulness
 
 
 
