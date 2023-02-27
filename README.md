@@ -91,9 +91,9 @@ A pretest will be given to the participants before they engage with the learning
 
 An interview will be conducted with a mix between open-ended and structured questions to explore their insights, level of understanding of the training content, and to what extent the trainign has infleunced their behavior and decision making.
 
-After engaginge with the learning material, participants will be taken through a short quiz to test their level of understanding and their effectiveness after learning the content. This will provide the data necessary to deterimine the areas that need improvment.
+After engaging with the learning material, participants will be taken through a short quiz to test their level of understanding and their effectiveness after learning the content. This will provide the data necessary to deterimine the areas that need improvment.
 
-IV - Content of cybersecurity training
+IV - Content of cybersecurity training<BR>
 DV - Effectiveness and Perceieved Usefulness
 
 
