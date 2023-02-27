@@ -58,11 +58,11 @@ Training - The education, instruction, or discipline of a person or thing that i
 
 Phishing - Cyber attack directed at key individuals or large groups by disguising a malicious attack as a reputable organization or entity. 
 
-Perceived Usefulness - A subjective opinion if cybersecurity is effective
+Perceived Usefulness - A subjective opinion based on a persons understanding of cybersecurity effectiveness.
 
-Perceived Ease of Use -  
+Perceived Ease of Use - A subjective opinion on the difficulty of using cybersecurity training.
 
-Industry professional - A person that works in a corporate environment 
+Industry professional - A person that works in a corporate office environment. 
 
 
 Research Design:
