@@ -9,57 +9,33 @@
 
 As more businesses and governments adopt advancing information and communication technologies into their infrastructure, the need for proper security training becomes increasingly more important. All employees working adjacent to these technologies must be made aware how their actions can affect how secure a system truly is. Cybersecurity is described as the technologies and practices to protect people and data from an attack through unauthorized access. It’s important for any individual who interacts with these networked technologies to be made aware how it can be used against them or give unauthorized access to attackers. Cybersecurity training can be effective by increasing the awareness of the security risks and teaching individuals how to navigate these risk to protect themselves and the organization from cyber threats. The effectiveness of training can depend on the relevance of the training, the frequency of training, and of course the quality of the training program.
 
-(cite real world examples / stats involving loss from cybercrimes)
+In 2020, Phishing and Fraud Report discovered a 220% increase in phising attacks as the opportunities to commit these attacks intensified. These attacks were not just against large business but against anyone that can stumble onto a fake website or fall victim to brand impersonation through social media or email. A banking institution that same year fell victim to a cyber attack where employees divulged login credentials allowing criminals to gain access to sensitive customer information. A glaring issue was revealed later that many employees didn’t properly complete training or dismissed the training as something less than critical. Employees should be properly engaged with cybersecurity training programs with an understanding that carries the importance of why this training is so critical to not only the safety of the company, but to their customer and user base as well.
 
-How does providing ongoing cybersecurity education and training to employees impact an organization's overall security?
-
-How does an industry professionals perception of the usefulness of cybersecurity training differ from the measurable effectiveness of cybersecurity training? 
-
-Methods for training:
-
-Awareness programs (CSA): These programs often include training sessions where employees are given information about the latest security threats and best practices for protecting their networks from cyber threats. This can be delivered through live training sessions, webinars, or online resources.
-
-Gamification: This can help employees better understand and remember key concepts, as well as providing a low-stakes environment to practice safe online behavior. Simulated phishing exercises work by sending employees simulated phishing emails that mimic real attacks. The goal of these exercises is to train employees to recognize and avoid these types of threats in the future. The simulated phishing emails often contain links or attachments that, when clicked, will trigger an alert to inform the employee that they have fallen for a simulated phishing attack. The employee will then receive feedback and education on how to avoid falling for similar attacks in the future.
-
-Methods for testing effectivness:
-
-Training Assessment: Determine the level of understanding for cybersecurity concepts and the best practices before and after the training. This can involve monitoring employees' actions, such as their compliance with security policies and procedures.
-
-Simulate incident response plans: This can involve conducting simulated security breaches to determine how well employees respond to such incidents and to measure their understanding of the response procedures. This can also include measuring their technical skills such as the employee’s ability to identify and mitigate potential threats and vulnerabilities.
-
-Trainee Feedback: Gathering feedback from employees about their training, its content and how it was delivered, as well as the overall effectiveness that can provide valuable insights for future improvements.
+Phising attacks have remained a persistent threat to governments and businesses since the wide adoption of the internet in the early 90s, albeit few people had access to it but the opportunity existed to receive fraudulent emails that attempted to trick users into providing sensitive information. As the attackers use increasingly sophisticated tactics to trick unsuspecting employees into disclosing sensitive information, more organizations invest into training programs that can prevent these attacks from occurring. Cybersecurity training methods to prevent phising lack proper standardization and their effectiveness remains unclear. Our motivation is to gain insight into which factors contribute to a successful cybersecuirty training program with regard to phishing attacks. Our focus will be on the relationship between the perceived ease of use and perceived usefulness of the training methods used to prepare employees for recognizing and addressing cyber threats.
 
 ----------------------
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
-
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
-
-(Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
-
-(Motivation. Why is this problem interesting and relevant to the research community?)
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
 (Contributions. An enumeration of the contributions of the senior design project)
 
-(This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+This project makes the following contributions:
+
+•	Identify aspects of cybersecurity training programs that influence ease of use
+
+•	Identify challenges a user may face when engaging with phishing training
+
+•	Provide recommendations for improving the design and delivery of training methods to enhance effectiveness
+
+•	Identify which aspects of phishing prevention training influence an employees’ attitudes and behaviors
+
 
 
 ## Related Work
 
-Introduction:
-
 Cybersecurity refers to the practice of protecting computer systems and networks from unauthorized acces that can lead to theft, damage, and other forms of cyber-attacks. The concept of cybersecuirty is the same as information security but not all cybersecurity attacks are targeting the information stored in the network. The network itself can be damaged, preventing further use until repairs or replacements are made. The defense against cyber-attacks starts with training the personal who engage with any network-connected system. The process of educating individuals and organizations on the best practices and techniques for protecting their digital assets from cyber threats. Cybersecurity training covers a wide spectrum of topics from the principles of information security, cyber threat intelligence for future mitigation, vulnerability management, incident response and the compliance of standards. The intent of cybersecuirty training is to improve the knowledge, skills, and awareness of individuals to enhance their ability to detect, prevent, and respond to a cyber threat (de Bruijn, 2017; Paulsen, 2012).
-
-Overview:
-
-(Remove following paragraph..?)
-Cybersecurity has been a topic of discussion since the development of early computer systems in the 50s and 60s, the difference in the beginning of this discussion was their focus on physical security such as gaining unauthorized physical access to the hardware itself as opposed to remote network access. As network technology evolved creating more convenient methods of access, so did the vulnerability from cyber threats. The first computer viruses were developed in the early 80s and only then did security research begin developing counter measures to cyber threats such as antivirus software. This trend picked up speed well into the 90s when the rise of the internet and it’s widespread adoption created new opportunities for any individual to engage in cybercrimes such as hacking and identity theft. Today, cyber-attacks have continued to evolve and increase in complexity with a new rise to advanced persistent threats that lay dormant in one’s network until triggered by an event such as a specified time. The demand for effective cybersecurity training will only increase as information security has become a critical concern for any individual including business and governments with the looming threats of ransomware attacks and data leaks.
 
 Modern cybersecuirty training involves different approaches such as simulations, virtual environments, and awareness of best practices with the most common implantation being online training (Leah, 2021). The online-training apporach is a cost-effective and flexible method for providing individuals with access to a wide range of videos, reading passages, and interactive modules structured to test a user’s ability to detect and respond to a cyber threat. The flexibility of online training affords a self-paced learning environment that can be accessed from any location. Regular training and assessment can ensure an individual’s skills are meeting a given standard to identify and protect against cyber threats. The limitations of this method comes down to the mediums used to present the information, and the lack of engaging interactions or hands-on experience such as penetration testing and vulnerability assessment can prevent a trainee from adopting the learned practices. Especially for some individuals where this method is much less effective, extra guidance or more pratical interactions are needed for understanding complex topics.
 
