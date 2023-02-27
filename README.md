@@ -60,7 +60,7 @@ Phishing - Cyber attack directed at key individuals or large groups by disguisin
 
 Perceived Usefulness - A subjective opinion if cybersecurity is effective
 
-Effectiveness - A metric to determine if cybersecurity training is successful 
+Perceived Ease of Use -  
 
 Industry professional - A person that works in a corporate environment 
 
@@ -97,10 +97,6 @@ IV - Content of cybersecurity training
 DV - Effectiveness and Perceieved Usefullness
 
 
-Ethics(?):
-
-Limitations, validity and reliability:
-Limited sample size, limited scope, subjectivity due to qualtative approach, measuring effectiveness, ... 
 
 ## References 
 
