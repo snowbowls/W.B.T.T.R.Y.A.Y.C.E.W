@@ -1,27 +1,22 @@
-# Research Practicum 2023 – Research Plan (Template)
-(text between brackets to be removed)
+# Research Practicum 2023 – Research Plan
 
 > * Group Name: We've Been Trying To Reach You About Your Car's Extended Warranty
 > * Group participants names: James Henderson; Patricia Montoya; Maxwell Stolarenko
-> * Project Title: Cybersecuirty Training Effectiveness
+> * Project Title: Improving Cybersecurity Culture in the Workplace: A Study of Training Practices and Perceptions
 
 ## General Introduction
-
+<p align="center">
+  <img src="images/phish.jpg" width="450" height="450"/>
+</p>
 As more businesses and governments adopt advancing information and communication technologies into their infrastructure, the need for proper security training becomes increasingly more important. All employees working adjacent to these technologies must be made aware how their actions can affect how secure a system truly is. Cybersecurity is described as the technologies and practices to protect people and data from an attack through unauthorized access. It’s important for any individual who interacts with these networked technologies to be made aware how it can be used against them or give unauthorized access to attackers. Cybersecurity training can be effective by increasing the awareness of the security risks and teaching individuals how to navigate these risk to protect themselves and the organization from cyber threats. The effectiveness of training can depend on the relevance of the training, the frequency of training, and of course the quality of the training program.
 
 In 2020, Phishing and Fraud Report discovered a 220% increase in phising attacks as the opportunities to commit these attacks intensified. These attacks were not just against large business but against anyone that can stumble onto a fake website or fall victim to brand impersonation through social media or email. A banking institution that same year fell victim to a cyber attack where employees divulged login credentials allowing criminals to gain access to sensitive customer information. A glaring issue was revealed later that many employees didn’t properly complete training or dismissed the training as something less than critical. Employees should be properly engaged with cybersecurity training programs with an understanding that carries the importance of why this training is so critical to not only the safety of the company, but to their customer and user base as well.
 
 Phising attacks have remained a persistent threat to governments and businesses since the wide adoption of the internet in the early 90s, albeit few people had access to it but the opportunity existed to receive fraudulent emails that attempted to trick users into providing sensitive information. As the attackers use increasingly sophisticated tactics to trick unsuspecting employees into disclosing sensitive information, more organizations invest into training programs that can prevent these attacks from occurring. Cybersecurity training methods to prevent phising lack proper standardization and their effectiveness remains unclear. Our motivation is to gain insight into which factors contribute to a successful cybersecuirty training program with regard to phishing attacks. Our focus will be on the relationship between the perceived ease of use and perceived usefulness of the training methods used to prepare employees for recognizing and addressing cyber threats.
 
-----------------------
+As demonstrated by the increase in phishing attacks, cyber threats are becoming more sophisticated and pervasive, and organizations must take proactive measures to educate their employees on the best practices for identifying, preventing, and responding to these attacks. There is a need for standardized training methods that can be used across different industries and with different learning styles depending on the trainee. In this study, we aim to contribute to the existing knowledge by investigating the relationship between the perceived ease of use and perceived usefulness of cybersecurity training methods in preparing employees to recognize and respond to cyber threats. Our research will provide insights that can help Identify aspects of cybersecurity training programs that influence ease of use, perceptions of usefulness, and which aspects of the training influence an employees’ attitudes and behaviors.
 
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
-
-(Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
-
-(Contributions. An enumeration of the contributions of the senior design project)
-
-This project makes the following contributions:
+##### This project makes the following contributions:
 
 •	Identify aspects of cybersecurity training programs that influence ease of use
 
