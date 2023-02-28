@@ -85,7 +85,7 @@ For this study the participants will be acquired using snowball sampling. Each t
 
 Our data will be obtained through surveys composed of open-ended questions as well as 5-point liker scale questions. We will be using the 5-point liker scale versus a higher liker scale because we want to keep the questions as direct and easy as possible for our participants. As mentioned above our study will begin with demographic questions to help us both with excluding participants that do not fit our sample group criteria as well as to provide us with the potential to find patterns within groups. The questions using the liker scale will be based on the participants perception of usefulness and their perceived ease of use of cybersecurity phishing training. Following these questions, the participant will be given a short phishing training which will be followed by open-ended questions that will flesh out there perceptions on these types of trainings.
 
-Data collection and analysis:
+Data analysis:
 
 A pretest will be given to the participants before they engage with the learning content for cybersecrity training. This pretest will gather any and all infromation about their expertise on cybersecurity, previous training, how often they engage with networked computers, have they ever been phished before, their perception of cybersecurity training, ...
 
