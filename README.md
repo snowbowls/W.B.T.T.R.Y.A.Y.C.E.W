@@ -72,7 +72,7 @@ The participants we are interested in for our study are industry professionals t
 
 Equipment:
 
-The equipment needed to conduct our study is a tool to create and host they surveys. The tool we have decided to use is Qualitrics since it is easily accessible to us. A laptop with internet access is also required as the tool the participants will use to take the surveys. We will also require access to a cybersecurity training video or examination for post scenario.<BR> 
+The equipment needed to conduct our study is a tool to create and host they surveys. The tool we have decided to use is Qualtrics since it is easily accessible to us. A laptop with internet access is also required as the tool the participants will use to take the surveys. We will also require access to a cybersecurity training video or examination for post scenario.<BR> 
 ![Equipment Chart](images/Equipment_Chart.png)
 
 Procedure:
