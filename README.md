@@ -83,11 +83,7 @@ Our data will be obtained through surveys composed of open-ended questions as we
 
 Data analysis:
 
-A pretest will be given to the participants before they engage with the learning content for cybersecrity training. This pretest will gather any and all infromation about their expertise on cybersecurity, previous training, how often they engage with networked computers, have they ever been phished before, their perception of cybersecurity training, ...
-
-An interview will be conducted with a mix between open-ended and structured questions to explore their insights, level of understanding of the training content, and to what extent the trainign has infleunced their behavior and decision making.
-
-After engaging with the learning material, participants will be taken through a short quiz to test their level of understanding and their effectiveness after learning the content. This will provide the data necessary to deterimine the areas that need improvment.
+Based on our background research, overall feelings toward cybersecurity training lean towards the negative so we anticipate a trend of similar responses for perceived usefulness and perceived ease of use for cybersecurity phishing training. What we expect to achieve from the results of our study is a better understanding of how industry professionals perceive cybersecurity phishing training and lend some insight as to how to improve the experience in the future. 
 
 IV - Content of cybersecurity training<BR>
 DV - Effectiveness and Perceived Usefulness
