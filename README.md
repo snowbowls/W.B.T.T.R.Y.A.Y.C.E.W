@@ -63,7 +63,7 @@ Industry professional - A person that works in a corporate office environment.
 
 Research Design:
 
-In the context of cybersecurity training, a case study can provide valuable insights on the training process and the impact it has on the trainee or organzation. We aim to explore the training experiences of a specfic organzation's method for cybersecurity training, examine their methods for delivering this training, the content that is covered, and the outcomes they expect to achieve versus what is acheieved. Through this examination, our case study also aims to identify the quality of the content presented in training, the engagement of the trainees and the extent to which the training can be integrated into an organziation's security culture.
+In the context of cybersecurity training, a case study can provide valuable insights on the training process and the impact it has on the trainee or organzation. We aim to explore the training experiences of a specfic organzation's method for cybersecurity training, examine their methods for delivering this training, and the content that is covered. Through this examination, our case study also aims to identify the quality of the content presented in training, the engagement of the trainees and the extent to which the training can be integrated into an organziation's security culture.
 
 
 Participants:
