@@ -50,13 +50,13 @@ Operational Definitions:
 
 Cybersecurity - Knowledge and awareness of signs and countermeasures against cyber threats, in the context of phishing attacks. 
 
-Training - The education, instruction, or discipline of a person or thing that is being trained. (reword?)
+Training - The education, instruction, or discipline of a person or thing that is being trained.
 
 Phishing - Cyber attack directed at key individuals or large groups by disguising a malicious attack as a reputable organization or entity. 
 
 Perceived Usefulness - A subjective opinion based on a persons understanding of cybersecurity effectiveness.
 
-Perceived Ease of Use - A subjective opinion on the difficulty of using cybersecurity training.
+Perceived Ease of Use - A subjective opinion on the difficulty/lack of difficulty of cybersecurity training.
 
 Industry professional - A person that works in a corporate office environment. 
 
