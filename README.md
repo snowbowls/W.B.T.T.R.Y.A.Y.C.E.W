@@ -86,7 +86,7 @@ Data analysis:
 Based on our background research, overall feelings toward cybersecurity training lean towards the negative so we anticipate a trend of similar responses for perceived usefulness and perceived ease of use for cybersecurity phishing training. What we expect to achieve from the results of our study is a better understanding of how industry professionals perceive cybersecurity phishing training and lend some insight as to how to improve the experience in the future. 
 
 IV - Content of cybersecurity training<BR>
-DV - Effectiveness and Perceived Usefulness
+DV - Perceived Ease of Use and Perceived Usefulness
 
 
 
