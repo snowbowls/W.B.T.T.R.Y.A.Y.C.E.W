@@ -37,11 +37,6 @@ Modern cybersecurity training involves different approaches such as simulations,
 
 Technology integrations have expanded how learners engage with learning activities where it would usually take place in a classroom. Cloud-based learning is a structured learning curriculum where the learner gains their knowledge and skills in a virtual environment whether it be lecture based or activity focused. This training method aims to expand the classroom experience without giving up on real-time interactions with instructors and experts that you would get in a face-to-face interaction. While classrooms are expensive and time consuming, it may also not be suitable for all types of learners without the integration of hands-on learning in virtual environments. Cloud-based learning offers a scalable and cost-effective solution for trainees to engage in virtual environments to provide a safe and secure platform for learners to apply their knowledge and skills gained from training and learn from their mistakes without impacting the vulnerability of a sensitive network.
 
-(Machine learning or AI related training methods?)
-
-There’s limitations with the integration of the aforementioned technologies and that comes down to the lack of standardization and the need for more practical training. Without standardization, inconsistencies in a learners knowledge and skills can make or break their incident response effectiveness. Practical training is thought to be a solution to provide proper standardization of learning methods and techniques but the barrier for entry can be very high for entry-level learners due to pricing and accessibility of the required technology. Integrating emerging technologies such as extended reality or machine learning can help to facilitate practical training to ensure a more consistent response to real-world scenarios.
-
-Empirical research..
 
 
 ## Methods
