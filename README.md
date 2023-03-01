@@ -92,13 +92,19 @@ DV - Perceived Ease of Use and Perceived Usefulness
 
 ## References 
 
+Abbasi, A., Zahedi, F. M., & Chen, Y. (2016, September). Phishing susceptibility: The good, the bad, and the ugly. In 2016 IEEE conference on intelligence and security informatics (ISI) (pp. 169-174). IEEE.
+
+Al-Daeef, M. M., Basir, N., & Saudi, M. M. (2017). Security awareness training: A review. Lecture Notes in Engineering and Computer Science.
+
 C. Paulsen, E. McDuffie, W. Newhouse and P. Toth, "NICE: Creating a Cybersecurity Workforce and Aware Public," in IEEE Security & Privacy, vol. 10, no. 3, pp. 76-79, May-June 2012, doi: 10.1109/MSP.2012.73.
 
 de Bruijn, H., & Janssen, M. (2017). Building cybersecurity awareness: The need for
 evidence-based framing strategies. Government Information Quarterly, 34(1), 1–7.
 
+Jampen, D., Gür, G., Sutter, T., & Tellenbach, B. (2020). Don’t click: towards an effective anti-phishing training. A comparative literature review. Human-centric Computing and Information Sciences, 10(1), 1-41.
+
 Leah Zhang-Kennedy and Sonia Chiasson. 2021. A systematic review of multimedia tools for cybersecurity awareness and education. ACM Computing Surveys (CSUR) 54, 1 (2021), 1–39.
 
-
+Reeves, A., Delfabbro, P., & Calic, D. (2021). Encouraging employee engagement with cybersecurity: How to tackle cyber fatigue. SAGE open, 11(1), 21582440211000049.
 
 
