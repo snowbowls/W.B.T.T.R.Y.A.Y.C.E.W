@@ -67,7 +67,7 @@ In the context of cybersecurity training, a case study can provide valuable insi
 
 Participants:
 
-The participants we are interested in for our study are industry professionals that are currently in the workforce. We are defining an industry professional as an individual who works in a corporate office environment. They would be familiar with cybersecurity trainings but will not have above average awareness of cybersecurity. We are looking at a sample size of 30 participants.
+The participants we are interested in for our study are industry professionals that are currently in the workforce. We are defining an industry professional as an individual who works in a corporate office environment. They would be familiar with cybersecurity trainings but will not have above average awareness of cybersecurity. We are looking at a sample size of at least 10 to 15 paricipants but ideally 30 participants for a greater level of percision to etect smaller effect sizes.
 
 Equipment:
 
@@ -78,7 +78,25 @@ Procedure:
 
 For this study the participants will be acquired using snowball sampling. Each team member will reach out to an individual who fits the participant criteria to run through the study. Those initial participants will then refer 1-2 individuals they believe would be interested in participating in the study. The first portion of the survey will include demographic information which will help us filter out if any participants do not fit the criteria and those participants can be excluded. As an incentive for participation in the study we will be offering those that participate a $5 gift card.
 
-Our data will be obtained through surveys composed of open-ended questions as well as 5-point likert scale questions. We will be using the 5-point likert scale versus a higher likert scale because we want to keep the questions as direct and easy as possible for our participants. As mentioned above our study will begin with demographic questions to help us both with excluding participants that do not fit our sample group criteria as well as to provide us with the potential to find patterns within groups. The questions using the liker scale will be based on the participants perception of usefulness and their perceived ease of use of cybersecurity phishing training. Following these questions, the participant will be given a short phishing training which will be followed by open-ended questions that will flesh out there perceptions on these types of trainings.
+
+<p align="center">
+  <img src="images/Phishing_Fundamentals.png"/>
+</p>
+<p align="center">
+  <img src="images/Spot_the_Phish_Game.png"/>
+</p>
+
+Our experiment will start with a 12 minute training video that will introduce the participant on what is phising, the motivation behind criminals and how they use phishing, and how to avoid falling victim to phishing attempts. Next the participant will be able to apply what they learned to an 8 minute interactive phishing activity that allow them to decide whether or not an email is a phishing attempt. The acitivty will provide a score to the user after the completion of the activity.
+
+<p align="center">
+  <img src="images/PU.png" width="450" height="450"/>
+</p>
+<p align="center">
+  <img src="images/PEU.png"width="450" height="450"/>
+</p>
+
+Our data will be obtained through surveys composed of open-ended questions as well as 5-point likert scale questions. We will be using the 5-point likert scale versus a higher likert scale because we want to keep the questions as direct and easy as possible for our participants. As mentioned above our study will begin with demographic questions to help us both with excluding participants that do not fit our sample group criteria as well as to provide us with the potential to find patterns within groups. The questions using the liker scale will be based on the participants perception of usefulness and their perceived ease of use of cybersecurity phishing training.
+
 
 Data analysis:
 
