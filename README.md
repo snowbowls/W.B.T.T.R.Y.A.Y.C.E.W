@@ -74,6 +74,9 @@ Equipment:
 The equipment needed to conduct our study is a tool to create and host they surveys. The tool we have decided to use is Qualtrics since it is easily accessible to us. A laptop with internet access is also required as the tool the participants will use to take the surveys. We will also require access to a cybersecurity training video or examination for post scenario.<BR> 
 ![Equipment Chart](images/Equipment_Chart.png)
 
+Training Module & Game: https://training.knowbe4.com/learner/index.html#/training/
+Qualtrics Survey: https://ucf.qualtrics.com/jfe/form/SV_daqFIfVveCvOcmy
+
 Procedure:
 
 For this study the participants will be acquired using snowball sampling. Each team member will reach out to an individual who fits the participant criteria to run through the study. Those initial participants will then refer 1-2 individuals they believe would be interested in participating in the study. The first portion of the survey will include demographic information which will help us filter out if any participants do not fit the criteria and those participants can be excluded. As an incentive for participation in the study we will be offering those that participate a $5 gift card.
@@ -89,10 +92,10 @@ For this study the participants will be acquired using snowball sampling. Each t
 Our experiment will start with a 12 minute training video that will introduce the participant on what is phising, the motivation behind criminals and how they use phishing, and how to avoid falling victim to phishing attempts. Next the participant will be able to apply what they learned to an 8 minute interactive phishing activity that allow them to decide whether or not an email is a phishing attempt. The acitivty will provide a score to the user after the completion of the activity.
 
 <p align="center">
-  <img src="images/PU.png" width="450" height="450"/>
+<img src="images/Phishing_Fundamentals-preview.png" width="350" height="270"/> <img src="images/Spot_the_Phish_Game-preview.png" width="350" height="270"/>
 </p>
 <p align="center">
-  <img src="images/PEU.png"width="450" height="450"/>
+  <img src="images/PU.png" width="350" height="350"/><img src="images/PEU.png"width="350" height="350"/>
 </p>
 
 Our data will be obtained through surveys composed of open-ended questions as well as 5-point likert scale questions. We will be using the 5-point likert scale versus a higher likert scale because we want to keep the questions as direct and easy as possible for our participants. As mentioned above our study will begin with demographic questions to help us both with excluding participants that do not fit our sample group criteria as well as to provide us with the potential to find patterns within groups. The questions using the liker scale will be based on the participants perception of usefulness and their perceived ease of use of cybersecurity phishing training.
