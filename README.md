@@ -75,6 +75,7 @@ The equipment needed to conduct our study is a tool to create and host they surv
 ![Equipment Chart](images/Equipment_Chart.png)
 
 Training Module & Game: https://training.knowbe4.com/learner/index.html#/training/
+
 Qualtrics Survey: https://ucf.qualtrics.com/jfe/form/SV_daqFIfVveCvOcmy
 
 Procedure:
