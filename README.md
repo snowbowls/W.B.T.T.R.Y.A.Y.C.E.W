@@ -138,7 +138,7 @@ The aim of this study was to examine industry standards for teaching staff on cy
 
 #### Open-Ended Question Coding
 <p align="center">
-	<img src="images/openended1.png"width="350" height="340"/><img src="images/openended2.png"width="350" height="350"/>
+	<img src="images/openended1.PNG"width="350" height="340"/><img src="images/openended2.PNG"width="350" height="350"/>
 </p>
 
 ...
