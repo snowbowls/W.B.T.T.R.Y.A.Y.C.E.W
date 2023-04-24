@@ -118,11 +118,15 @@ The aim of this study was to examine industry standards for teaching staff on cy
 	<img src="images/spss/cronbachalpha-peou.png"/>
  </p>
 
+...
+
 #### Exploratory Factor Analysis
 <p align="center">
 	<img src="images/spss/factor-pu.png"/>
     <img src="images/spss/factor-peou.png"/>
 </p>
+
+...
 
 #### Linear Regression
 <p align="center">
@@ -130,7 +134,17 @@ The aim of this study was to examine industry standards for teaching staff on cy
     <img src="images/spss/linearregres-peou.png"/>
 </p>
 
+...
+
 #### Open-Ended Question Coding
+<p align="center">
+	<img src="images/openended1.png"width="350" height="340"/><img src="images/openended2.png"width="350" height="350"/>
+</p>
+
+...
+
+## Conclusion
+...
 
 ## References 
 
