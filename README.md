@@ -109,7 +109,28 @@ Based on our background research, overall feelings toward cybersecurity training
 IV - Content of cybersecurity training<BR>
 DV - Perceived Ease of Use and Perceived Usefulness
 
+## Analysis
 
+The aim of this study was to examine industry standards for teaching staff on cybersecurity awareness and identifying fraudulent emails. Specifically, we focused on the training module used by the University of Central Florida, which teaches staff how to detect and address phishing attempts via email. Although many similar training modules exist, little research has been conducted on their effectiveness or staff's perceptions of the online training. To address this gap, we propose a qualitative questionnaire to measure the perceived ease of use and usefulness of the training module. The primary purpose of measuring usability and ease of use is to identify any potential barriers to user adoption and acceptance of the concepts taught in the training. The ultimate goal of this training is to enhance staff skills effectively while being user-friendly. Our questionnaire aims to improve user satisfaction, productivity, and efficiency by identifying areas where improvements can be made to increase ease of use and user acceptance.
+
+#### Cronbach's Alpha
+<p align="center">
+	<img src="images/spss/cronbachalpha-peou.png"/>
+ </p>
+
+#### Exploratory Factor Analysis
+<p align="center">
+	<img src="images/spss/factor-pu.png"/>
+    <img src="images/spss/factor-peou.png"/>
+</p>
+
+#### Linear Regression
+<p align="center">
+	<img src="images/spss/linearregres-pu.png"/>
+    <img src="images/spss/linearregres-peou.png"/>
+</p>
+
+#### Open-Ended Question Coding
 
 ## References 
 
