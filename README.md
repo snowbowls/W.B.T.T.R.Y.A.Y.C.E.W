@@ -158,19 +158,20 @@ To further refine our scales, we need to do more to understand the underlying fa
 
 #### Linear Regression
 
+We conducted a linear regression analysis to examine the relationship between the participants’ demographic characteristics and their responses to both perceived usefulness and perceived ease of use of the cybersecuirty training program. In both analyses, the demographics were chosen as the independent variables but more specifically it was their age, education level, employment status, gender, and ethnic background. The dependent variable would be their answer to the final measure in each Likert scale. The tables below show the coefficients for each independent variable, including the beta, standard error, t-value, and significance level. The beta coefficient represents the change in the dependent variable associated with an increase in the independent variable. The standard error represents the amount of variability in the dependent variables. The t-value is a measure of magnetite of the coefficient relative to its standard error, with large values indicating a more significant relationship between the independent and dependent variables.
+
 ###### Perceived Usefulness
 <p align="center">
 	<img src="images/spss/linearregres-pu.png"/>
 </p>
 
-...
 
 ###### Perceived Ease of Use
 <p align="center">
     <img src="images/spss/linearregres-peou.png"/>
 </p>
 
-...
+Due to the hypothetical nature of our data, it’s not prudent to study the values too carefully as they do not carry much weight into the final product of our experiment and only serve to shed light on the how we can expect a relationship between demographic characteristics and perceived usefulness / ease of use. This information can be valuable for designing a more effective training program tailored to the needs of specific demographic groups.
 
 #### Open-Ended Question Coding
 <p align="center">
