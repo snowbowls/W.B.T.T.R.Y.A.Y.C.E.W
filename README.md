@@ -118,7 +118,10 @@ The aim of this study was to examine industry standards for teaching staff on cy
 	<img src="images/spss/cronbachalpha-peou.png"/>
  </p>
 
-...
+With the help of a built-in function for Qualtrics to fill in hypothetical data and repeated attempts at self-testing our procedure, we amassed 30 passes of our survey that we began to analyze with SPSS. First was a reliability analysis with Cronbach’s Alpha which we received a score of 0.322 for both Likert scales. This is considered a low score and indicated that the scales we used have low internal consistency. This means the items we used in our perceived usefulness and ease of use scales do not strongly correlate with each other and are not measuring the same underlying construct. We deduced that there are several reasons for this, one of which is that our wording was not clear, and our intended constructs are not accurately portrayed in the scales. Second, and the more likely of the two possibilities was our hypothetical data from Qualtrics or our own attempts causes a skew in the data that didn’t give us accurate experiences if we were to conduct this experiment on our intended participants. 
+
+We want to study how our Cronbach’s Alpha score can be increased, so we wish to refine the wording of the items and consider revising them to make sure they are clear and represent exactly what we are intending to measure. This could involve removing or adding items to increase the variability of our responses that could help improve consistency.
+
 
 #### Exploratory Factor Analysis
 <p align="center">
@@ -141,7 +144,20 @@ The aim of this study was to examine industry standards for teaching staff on cy
 	<img src="images/openended1.PNG"width="350" height="340"/><img src="images/openended2.PNG"width="350" height="350"/>
 </p>
 
-...
+At the end of our survey, we asked open-ended questions to gain further insight into the experiences of our participants as well as give them an opportunity to express anything that wasn’t covered in our Likert scale; we asked 6 questions that were chosen for this purpose. To analyze our expected responses, we will attempt to transcribe and identify common patterns, themes, and concepts. We start this process through the creation of a coding scheme where each theme of a response can be given its own individual category and only one category for each theme.
+
+For example, in question 1: What aspects of the cybersecuirty training program did you find the most helpful in terms of ease of use? We can expect response that could fit the theme of “clear instructions”, “intuitive interface”, or “helpful feedback.”
+
+Question 2: What were the biggest challenges you faced while using the cybersecurity training program? Potential themes: difficulties with interface, complex content, lack of clarity, limited resources.
+
+Question 3: In your opinion, what changes could be made to the cybersecurity training program to make it more user-friendly? Potential themes: Simpler terms / language, increase amount of interactive content, better guidance, change in organization / delivery order of concepts.
+
+Question 4: Can you describe a time when you felt particularly frustrated while using the cybersecurity training program? Potential themes: difficulties with interface, lack of feedback, confusing content.
+
+Question 5: How confident do you feel in your ability to use the skills and knowledge learned from the cybersecurity training program in real-world situations? Potential themes: Varying levels of confidence
+
+Question 6: Do you have any suggestions for additional features or resources that could be added to the cybersecurity training program to enhance its usability? Potential themes: Similar to question 3 with an emphasis on user interface, change in content delivery from video to readings, more choices for interactive game, better feedback.
+
 
 ## Conclusion
 ...
