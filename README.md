@@ -124,16 +124,49 @@ We want to study how our Cronbach’s Alpha score can be increased, so we wish t
 
 
 #### Exploratory Factor Analysis
+
+Continuing with the same dataset from our reliability analysis, we ran an exploratory factor analysis on each of the Likert scales in order to better understand how our hypothetical data may influence underlying factors within the perceived usefulness and ease of use scales.
+
+###### Perceived Usefulness
 <p align="center">
 	<img src="images/spss/factor-pu.png"/>
+</p>
+
+The chart above denotes how SPSS extracted the factors using a quality score called an Eigenvalue. The components with high Eigenvalues are likely to represent significant underlying factors. Traditionally, we want to look for a minimum eigen value of at least 1 while anything lower wouldn’t constitute as real trait underlying the component or question. We can look at the scree plot below to visualize the cutoff between strong and weak factors. In the case of perceived usefulness, there is only two strong factors to consider.
+
+<p align="center">
+	<img src="images/spss/factor-pu-scree.png"width="350" height="250"/><img src="images/spss/factor-pu-mat.png"width="350" height="550"/>
+</p>
+
+To the right of the scree plot above is our component matrix for perceived usefulness which shows how individual measures in the scale may correlate with different components. In this case, our components are the strong factors found from our eigenvalues calculated earlier. Positive values show a positive correlation with the factor and negative values show a negative correlation. 
+
+For instance, we see measure 1 and measure 4 to have negative values for factor 1 while measures 2, 5, and 6 have a high positive correlation with factor 1. This tells us that individuals who find the module to be easy to become skilled at also find it flexible to interact with. Since we are using hypothetical data here, we cannot look too deeply into individual factors as they would produce wildly different results when we engage with actual participants we intended to study. What may be of use to us is determining which factors SPSS could be identifying such as the relevance of the training content and the perceived effectiveness of the training in improving the participants knowledge and skills.
+
+
+###### Perceived Ease of Use
+<p align="center">
     <img src="images/spss/factor-peou.png"/>
+</p>
+
+As discussed earlier, we are looking for eigenvalues above 1 and with the chart above we see there are 3 factors that may be extracted from our hypothetical responses. Below is our scree plot which shows a much more gradual drop off compared to our earlier scree plot which isn’t typical when determining the number of components to retain in the factor analysis. Since there isn’t a strong drop off, it may suggest there is no clear separation between the components and the factor analysis is not effectively capturing any underlying structure from our data. It could also suggest there are many factors that are all equally important and it may be necessary to choose a smaller cut off value to retain more factors than initially expected.
+
+<p align="center">
+	<img src="images/spss/factor-peou-scree.png"width="350" height="250"/><img src="images/spss/factor-peou-mat.png"width="350" height="550"/>
+</p>
+
+To further refine our scales, we need to do more to understand the underlying factors of perceived usefulness and perceived ease of use. One way to do this is to conduct a confirmatory factor analysis which tests the validity of the factor structure identified in our exploratory analysis after a refinement has been made. Additionally, we should conduct verbal interviews with our participants or use our open-ended questions so we can gain further insight into what influenced their ratings on these scales. This would give us a point of reference for our confirmatory factor analysis that would better refine our Likert scales and develop more specific items that better capture our intended factors.
+
+#### Linear Regression
+
+###### Perceived Usefulness
+<p align="center">
+	<img src="images/spss/linearregres-pu.png"/>
 </p>
 
 ...
 
-#### Linear Regression
+###### Perceived Ease of Use
 <p align="center">
-	<img src="images/spss/linearregres-pu.png"/>
     <img src="images/spss/linearregres-peou.png"/>
 </p>
 
