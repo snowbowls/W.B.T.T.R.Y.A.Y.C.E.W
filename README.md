@@ -13,9 +13,9 @@ As more businesses and governments adopt advancing information and communication
 
 In 2020, Phishing and Fraud Report discovered a 220% increase in phishing attacks as the opportunities to commit these attacks intensified. These attacks were not just against large business but against anyone that can stumble onto a fake website or fall victim to brand impersonation through social media or email. A banking institution that same year fell victim to a cyber attack where employees divulged login credentials allowing criminals to gain access to sensitive customer information. A glaring issue was revealed later that many employees didn’t properly complete training or dismissed the training as something less than critical. Employees should be properly engaged with cybersecurity training programs with an understanding that carries the importance of why this training is so critical to not only the safety of the company, but to their customer and user base as well. 
 
-Phishing attacks have remained a persistent threat to governments and businesses since the wide adoption of the internet in the early 90s, albeit few people had access to it but the opportunity existed to receive fraudulent emails that attempted to trick users into providing sensitive information. As the attackers use increasingly sophisticated tactics to trick unsuspecting employees into disclosing sensitive information, more organizations invest into training programs that can prevent these attacks from occurring. Cybersecurity training methods to prevent phishing lack proper standardization and their effectiveness remains unclear. Our motivation is to gain insight into which factors contribute to a successful cybersecuirty training program with regard to phishing attacks. Our focus will be on the relationship between the perceived ease of use and perceived usefulness of the training methods used to prepare employees for recognizing and addressing cyber threats. 
+Phishing attacks have remained a persistent threat to governments and businesses since the wide adoption of the internet in the early 90s, albeit few people had access to it but the opportunity existed to receive fraudulent emails that attempted to trick users into providing sensitive information. As the attackers use increasingly sophisticated tactics to trick unsuspecting employees into disclosing sensitive information, more organizations invest into training programs that can prevent these attacks from occurring. Cybersecurity training methods to prevent phishing lack proper standardization and their effectiveness remains unclear. Our motivation is to gain insight into which factors contribute to a successful cybersecurity training program with regard to phishing attacks. Our focus will be on the relationship between the perceived ease of use and perceived usefulness of the training methods used to prepare employees for recognizing and addressing cyber threats. 
 
-As demonstrated by the increase in phishing attacks, cyber threats are becoming more sophisticated and pervasive, and organizations must take proactive measures to educate their employees on the best practices for identifying, preventing, and responding to these attacks. There is a need for standardized training methods that can be used across different industries and with different learning styles depending on the trainee. In this study, we aim to contribute to the existing knowledge by investigating the relationship between the perceived ease of use and perceived usefulness of cybersecurity training methods in preparing employees to recognize and respond to cyber threats. Our research will provide insights that can help Identify aspects of cybersecurity training programs that influence ease of use, perceptions of usefulness, and which aspects of the training influence an employees’ attitudes and behaviors.
+As demonstrated by the increase in phishing attacks, cyber threats are becoming more sophisticated and pervasive, and organizations must take proactive measures to educate their employees on the best practices for identifying, preventing, and responding to these attacks. There is a need for standardized training methods that can be used across different industries and with different learning styles depending on the trainee. In this study, we aim to contribute to the existing knowledge by investigating the relationship between the perceived ease of use and perceived usefulness of cybersecurity training methods in preparing employees to recognize and respond to cyber threats. Our research will provide insights that can help identify aspects of cybersecurity training programs that influence ease of use, perceptions of usefulness, and which aspects of the training influence an employees’ attitudes and behaviors.
 
 ##### This project makes the following contributions:
 
@@ -57,7 +57,9 @@ Perceived Usefulness - A subjective opinion based on a persons understanding of 
 
 Perceived Ease of Use - A subjective opinion on the difficulty/lack of difficulty of cybersecurity training.
 
-Industry professional - A person that works in a corporate office environment. 
+Industry Professional - A person that works in a corporate office environment. 
+
+Elite Bias - A phenomenon that occurs when researchers fail to gain an understanding of the broader situation by only focusing on the perceptions of certain people of a high status.
 
 
 Research Design:
@@ -67,7 +69,7 @@ In the context of cybersecurity training, a case study can provide valuable insi
 
 Participants:
 
-The participants we are interested in for our study are industry professionals that are currently in the workforce. We are defining an industry professional as an individual who works in a corporate office environment. They would be familiar with cybersecurity trainings but will not have above average awareness of cybersecurity. We are looking at a sample size of at least 10 to 15 paricipants but ideally 30 participants for a greater level of percision to etect smaller effect sizes.
+The participants we are interested in for our study are industry professionals that are currently in the workforce. We are defining an industry professional as an individual who works in a corporate office environment. They would be familiar with cybersecurity trainings but will not have above average awareness of cybersecurity. We are looking at a sample size of at least 10 to 15 paricipants but ideally 30 participants for a greater level of percision to detect smaller effect sizes.
 
 Equipment:
 
@@ -80,7 +82,7 @@ Qualtrics Survey: https://ucf.qualtrics.com/jfe/form/SV_daqFIfVveCvOcmy
 
 Procedure:
 
-For this study the participants will be acquired using snowball sampling. Each team member will reach out to an individual who fits the participant criteria to run through the study. Those initial participants will then refer 1-2 individuals they believe would be interested in participating in the study. The first portion of the survey will include demographic information which will help us filter out if any participants do not fit the criteria and those participants can be excluded. As an incentive for participation in the study we will be offering those that participate a $5 gift card.
+For this study the participants will be acquired using snowball sampling. Each team member will reach out to an individual who fits the participant criteria to run through the study. Those initial participants will then refer 1-2 individuals they believe would be interested in participating in the study. The first step of the experiment the participants will be asked to read and sign an informed consent form followed by a demographic information survey. The demographic survey will help us filter out any participants that do not fit the criteria and those participants can be excluded. As an incentive for participation in the study we will be offering those that participate a $5 gift card.
 
 
 <p align="center">
@@ -90,7 +92,7 @@ For this study the participants will be acquired using snowball sampling. Each t
   <img src="images/Spot_the_Phish_Game.png"/>
 </p>
 
-Our experiment will start with a 12 minute training video that will introduce the participant on what is phising, the motivation behind criminals and how they use phishing, and how to avoid falling victim to phishing attempts. Next the participant will be able to apply what they learned to an 8 minute interactive phishing activity that allow them to decide whether or not an email is a phishing attempt. The acitivty will provide a score to the user after the completion of the activity.
+Our experiment will start with a 12 minute training video that will introduce the participant on what is phishing, the motivation behind criminals and how they use phishing, and how to avoid falling victim to phishing attempts. Next the participant will be able to apply what they learned to an 8 minute interactive phishing activity that allow them to decide whether or not an email is a phishing attempt. The acitivty will provide a score to the user after the completion of the activity.
 
 <p align="center">
 <img src="images/Phishing_Fundamentals-preview.png" width="350" height="270"/> <img src="images/Spot_the_Phish_Game-preview.png" width="350" height="270"/>
@@ -99,12 +101,12 @@ Our experiment will start with a 12 minute training video that will introduce th
   <img src="images/PU.png" width="350" height="350"/><img src="images/PEU.png"width="350" height="350"/>
 </p>
 
-Our data will be obtained through surveys composed of open-ended questions as well as 5-point likert scale questions. We will be using the 5-point likert scale versus a higher likert scale because we want to keep the questions as direct and easy as possible for our participants. As mentioned above our study will begin with demographic questions to help us both with excluding participants that do not fit our sample group criteria as well as to provide us with the potential to find patterns within groups. The questions using the liker scale will be based on the participants perception of usefulness and their perceived ease of use of cybersecurity phishing training.
+Our data will be obtained through surveys composed of open-ended questions as well as 5-point likert scale questions. We will be using the 5-point likert scale versus a higher likert scale because we want to keep the questions as direct and easy as possible for our participants. As mentioned above our study will begin with demographic questions to help us both with excluding participants that do not fit our sample group criteria as well as to provide us with the potential to find patterns within groups. The questions using the likert scale will be based on the participants perception of usefulness and their perceived ease of use of cybersecurity phishing training.
 
 
 Data analysis:
 
-Based on our background research, overall feelings toward cybersecurity training lean towards the negative so we anticipate a trend of similar responses for perceived usefulness and perceived ease of use for cybersecurity phishing training. What we expect to achieve from the results of our study is a better understanding of how industry professionals perceive cybersecurity phishing training and lend some insight as to how to improve the experience in the future. 
+Based on our background research, overall feelings toward cybersecurity training lean towards the negative so we anticipate a trend of similar responses for perceived usefulness and perceived ease of use for cybersecurity phishing training. What we expect to achieve from the results of our study is a better understanding of how industry professionals perceive cybersecurity phishing training and lend some insight as to how to improve the experience for the user in the future. 
 
 IV - Content of cybersecurity training<BR>
 DV - Perceived Ease of Use and Perceived Usefulness
@@ -132,7 +134,7 @@ Continuing with the same dataset from our reliability analysis, we ran an explor
 	<img src="images/spss/factor-pu.png"/>
 </p>
 
-The chart above denotes how SPSS extracted the factors using a quality score called an Eigenvalue. The components with high Eigenvalues are likely to represent significant underlying factors. Traditionally, we want to look for a minimum eigen value of at least 1 while anything lower wouldn’t constitute as real trait underlying the component or question. We can look at the scree plot below to visualize the cutoff between strong and weak factors. In the case of perceived usefulness, there is only two strong factors to consider.
+The chart above denotes how SPSS extracted the factors using a quality score called an eigenvalue. The components with high eigenvalues are likely to represent significant underlying factors. Traditionally, we want to look for a minimum eigenvalue of at least 1 while anything lower wouldn’t constitute as real trait underlying the component or question. We can look at the scree plot below to visualize the cutoff between strong and weak factors. In the case of perceived usefulness, there is only two strong factors to consider.
 
 <p align="center">
 	<img src="images/spss/factor-pu-scree.png"width="350" height="250"/><img src="images/spss/factor-pu-mat.png"width="350" height="550"/>
@@ -158,7 +160,7 @@ To further refine our scales, we need to do more to understand the underlying fa
 
 #### Linear Regression
 
-We conducted a linear regression analysis to examine the relationship between the participants’ demographic characteristics and their responses to both perceived usefulness and perceived ease of use of the cybersecuirty training program. In both analyses, the demographics were chosen as the independent variables but more specifically it was their age, education level, employment status, gender, and ethnic background. The dependent variable would be their answer to the final measure in each Likert scale. The tables below show the coefficients for each independent variable, including the beta, standard error, t-value, and significance level. The beta coefficient represents the change in the dependent variable associated with an increase in the independent variable. The standard error represents the amount of variability in the dependent variables. The t-value is a measure of magnetite of the coefficient relative to its standard error, with large values indicating a more significant relationship between the independent and dependent variables.
+We conducted a linear regression analysis to examine the relationship between the participants’ demographic characteristics and their responses to both perceived usefulness and perceived ease of use of the cybersecurity training program. In both analyses, the demographics were chosen as the independent variables but more specifically it was their age, education level, employment status, gender, and ethnic background. The dependent variable would be their answer to the final measure in each Likert scale. The tables below show the coefficients for each independent variable, including the beta, standard error, t-value, and significance level. The beta coefficient represents the change in the dependent variable associated with an increase in the independent variable. The standard error represents the amount of variability in the dependent variables. The t-value is a measure of magnetite of the coefficient relative to its standard error, with large values indicating a more significant relationship between the independent and dependent variables.
 
 ###### Perceived Usefulness
 <p align="center">
@@ -180,7 +182,7 @@ Due to the hypothetical nature of our data, it’s not prudent to study the valu
 
 At the end of our survey, we asked open-ended questions to gain further insight into the experiences of our participants as well as give them an opportunity to express anything that wasn’t covered in our Likert scale; we asked 6 questions that were chosen for this purpose. To analyze our expected responses, we will attempt to transcribe and identify common patterns, themes, and concepts. We start this process through the creation of a coding scheme where each theme of a response can be given its own individual category and only one category for each theme.
 
-For example, in question 1: What aspects of the cybersecuirty training program did you find the most helpful in terms of ease of use? We can expect response that could fit the theme of “clear instructions”, “intuitive interface”, or “helpful feedback.”
+For example, in question 1: What aspects of the cybersecurity training program did you find the most helpful in terms of ease of use? We can expect response that could fit the theme of “clear instructions”, “intuitive interface”, or “helpful feedback.”
 
 Question 2: What were the biggest challenges you faced while using the cybersecurity training program? Potential themes: difficulties with interface, complex content, lack of clarity, limited resources.
 
@@ -194,7 +196,7 @@ Question 6: Do you have any suggestions for additional features or resources tha
 
 
 ## Conclusion
-...
+Cybersecurity training is an essential component for all organizations across all fields in today's modern age. The protection of an organizations valuable and sensitive information makes it crucial for all workers to be properly trained in the subject to prevent a cybersecurity incident. Though there is significant importance placed on the subject, literature is still reflecting negative user experiences from non-experts when taking these types of trainings. Through this research proposable we aim to better understand why receivers of cybersecurity training report having negative experiences through analyzing there perceived ease of use and their perceived useless.     
 
 ## References 
 
