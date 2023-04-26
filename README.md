@@ -206,6 +206,8 @@ Abbasi, A., Zahedi, F. M., & Chen, Y. (2016, September). Phishing susceptibility
 
 Al-Daeef, M. M., Basir, N., & Saudi, M. M. (2017). Security awareness training: A review. Lecture Notes in Engineering and Computer Science.
 
+A. Reeves, D. Calic, P. Delfababbro (2021). "Get a red-hot poker and open up my eyes, it's so boring": Employee perceptions of cybersecurity training. Volume 106, 2021, 102281, ISSN 0167-4048, https://doi.org/10.1016/j.cose.2021.102281.
+
 C. Paulsen, E. McDuffie, W. Newhouse and P. Toth, "NICE: Creating a Cybersecurity Workforce and Aware Public," in IEEE Security & Privacy, vol. 10, no. 3, pp. 76-79, May-June 2012, doi: 10.1109/MSP.2012.73.
 
 de Bruijn, H., & Janssen, M. (2017). Building cybersecurity awareness: The need for
