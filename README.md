@@ -196,7 +196,9 @@ Question 6: Do you have any suggestions for additional features or resources tha
 
 
 ## Conclusion
-Cybersecurity training is an essential component for all organizations across all fields in today's modern age. The protection of an organizations valuable and sensitive information makes it crucial for all workers to be properly trained in the subject to prevent a cybersecurity incident. Though there is significant importance placed on the subject, literature is still reflecting negative user experiences from non-experts when taking these types of trainings. Through this research proposable we aim to better understand why receivers of cybersecurity training report having negative experiences through analyzing there perceived ease of use and their perceived useless.     
+Through the preliminary testing of our experiment we found potential revisement may be needed to be made to the survey questions based on the score we received from our validation testing. To fix this issue we would lean into our open-ended questions to help guide us into refining the wording for the individual measures of the scale. Getting the scale questions validated would be our primary focus if we proceed with the research. 
+
+Cybersecurity training is an essential component for all organizations across all fields in today's modern age. The protection of an organizations valuable and sensitive information makes it crucial for all workers to be properly trained in the subject to prevent a cybersecurity incident. Though there is significant importance placed on the subject, literature is still reflecting negative user experiences from non-experts when taking these types of trainings. Through this research proposable we aim to better understand why receivers of cybersecurity training report having negative experiences through analyzing there perceived ease of use and their perceived usefulness of the trainings.          
 
 ## References 
 
